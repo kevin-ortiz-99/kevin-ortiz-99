@@ -12,4 +12,4 @@
 ![trello](https://shields.io/badge/Trello-blue?logo=Trello&style=flat)&nbsp;
 
 <h1 align="center">Sobre Mí</h1>
-💡 &nbsp;Mi primer lenguaje fue C#, el cual aprendí durante mi trayecto universitario. Inicialmente, me enfoqué en el desarrollo de aplicaciones de escritorio, pero la verdad es que me gusta más el desarrollo web. Particularmente, me atrae más la rama del backend, donde disfruto enfrentando desafíos y creando código limpio y fácil de comprender. Mi objetivo es siempre mejorar.\
+💡 &nbsp;Mi primer lenguaje fue C#, el cual aprendí durante mi trayecto universitario. Inicialmente, me enfoqué en el desarrollo de aplicaciones de escritorio, pero la verdad es que me gusta más el desarrollo web. Particularmente, me atrae más la rama del backend, donde disfruto enfrentando desafíos y creando código limpio y fácil de comprender. Mi objetivo es siempre mejorar.
